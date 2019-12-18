@@ -210,6 +210,10 @@
 .mt5  {  margin-top: var(--spacing-extra-large); }
 .mt6 {  margin-top: var(--spacing-extra-extra-large); }
 .mt7 { margin-top: var(--spacing-extra-extra-extra-large); }
+.mt-auto { margin-top: auto; }
+.mb-auto { margin-bottom: auto; }
+.ml-auto { margin-left: auto; }
+.mr-auto { margin-right: auto; }
 
 .mv0   {
   margin-top: var(--spacing-none);
@@ -432,6 +436,10 @@
   .mt5-ns  {  margin-top: var(--spacing-extra-large); }
   .mt6-ns {  margin-top: var(--spacing-extra-extra-large); }
   .mt7-ns { margin-top: var(--spacing-extra-extra-extra-large); }
+  .mt-auto-ns { margin-top: auto; }
+  .mb-auto-ns { margin-bottom: auto; }
+  .ml-auto-ns { margin-left: auto; }
+  .mr-auto-ns { margin-right: auto; }
 
   .mv0-ns   {
     margin-top: var(--spacing-none);
@@ -657,6 +665,10 @@
   .mt5-m  {  margin-top: var(--spacing-extra-large); }
   .mt6-m {  margin-top: var(--spacing-extra-extra-large); }
   .mt7-m { margin-top: var(--spacing-extra-extra-extra-large); }
+  .mt-auto-m { margin-top: auto; }
+  .mb-auto-m { margin-bottom: auto; }
+  .ml-auto-m { margin-left: auto; }
+  .mr-auto-m { margin-right: auto; }
 
   .mv0-m {
     margin-top: var(--spacing-none);
@@ -855,6 +867,7 @@
   .ml5-l  {  margin-left: var(--spacing-extra-large); }
   .ml6-l {  margin-left: var(--spacing-extra-extra-large); }
   .ml7-l { margin-left: var(--spacing-extra-extra-extra-large); }
+  .ml-auto-l { margin-left: auto; }
 
   .mr0-l  {  margin-right: var(--spacing-none); }
   .mr1-l {  margin-right: var(--spacing-extra-small); }
@@ -873,6 +886,7 @@
   .mb5-l  {  margin-bottom: var(--spacing-extra-large); }
   .mb6-l {  margin-bottom: var(--spacing-extra-extra-large); }
   .mb7-l { margin-bottom: var(--spacing-extra-extra-extra-large); }
+  .mb-auto-l { margin-bottom: auto; }
 
   .mt0-l  {  margin-top: var(--spacing-none); }
   .mt1-l {  margin-top: var(--spacing-extra-small); }
@@ -882,6 +896,8 @@
   .mt5-l  {  margin-top: var(--spacing-extra-large); }
   .mt6-l {  margin-top: var(--spacing-extra-extra-large); }
   .mt7-l { margin-top: var(--spacing-extra-extra-extra-large); }
+  .mt-auto-l { margin-top: auto; }
+  .mr-auto-l { margin-right: auto; }
 
   .mv0-l {
     margin-top: var(--spacing-none);
